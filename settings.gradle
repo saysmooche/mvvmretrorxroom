@@ -1,0 +1,2 @@
+rootProject.name='mvvmretrorxroom'
+include ':app'
